@@ -12,7 +12,7 @@ My inspiration for this game was nothing crazy I just learned Javascript I wante
 
 ## Installation 
 
-This game is extremely simple nothing more than a git clone and running the HTML a local host port
+This game is extremely simple nothing more than a git clone and running the HTML on a local host port
 
 ## Additionall resources
 
