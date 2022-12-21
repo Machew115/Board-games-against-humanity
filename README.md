@@ -1,8 +1,20 @@
-# Mile-Stone-Project-1
+# Board Games Against Humanity 
 first milestone project
 My silly little Tic Tac Toe game
 This project/game is like any generic tic tac toe game but with a small twist of impossibility. You will wager the lives of the very few humans left on earth in a game against an AI.
 My inspiration for this game was nothing crazy I just learned Javascript I wanted to start small therefore I chose a simple board game. except I didn't want a simple touch and play that was easy I decided to learn about something new like simple AI. The minimax was a simple AI I found online and plugged into my javascript, and several changes had to be made which ended up forcing me to rewrite the javascript tailored for the AI to work. the background color and roughness are supposed to match the harsh reality that you are wagering the survival of the human race on a silly board game which also makes it comical. the colors I chose were grey and red with different variations of the two with red representing blood and humans while grey represented metal and dead-like life behind machines. all together the game is silly in the context in terms of how it's played but serious with the fact it's an AI that can't be beaten but can be stalled for now.
+
+## Technologies
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Installation 
+
+This game is extremely simple nothing more than a git clone and running the HTML a local host port
+
+## Additionall resources
 
 source for my HMTL and CSS skeleton
 https://youtu.be/oZrp3Atkz18
